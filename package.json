@@ -4,9 +4,7 @@
   "description": "Co.FlyteWork.Eldritch",
   "main": "app.js",
   "dependencies": {},
-  "devDependencies": {
-    "webpack": "^1.13.2"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "jasmine app-tests.js"
   },
