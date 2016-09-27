@@ -3,10 +3,10 @@
   "version": "0.9.0",
   "description": "Co.FlyteWork.Eldritch",
   "main": "app.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "webpack": "^1.13.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jasmine app-tests.js"
   },
