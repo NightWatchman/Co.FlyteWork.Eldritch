@@ -4,7 +4,12 @@
   "description": "Co.FlyteWork.Eldritch",
   "main": "app.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "webpack": "^1.13.2"
+  },
   "scripts": {
     "test": "jasmine app-tests.js"
   },
