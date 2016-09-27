@@ -1,0 +1,31 @@
+{
+  "name": "co.flytework.eldritch",
+  "version": "0.9.0",
+  "description": "Co.FlyteWork.Eldritch",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine app-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightWatchman/Co.FlyteWork.Eldritch.git"
+  },
+  "keywords": [
+    "Eldritch",
+    "Horror",
+    "Encounters",
+    "Companion",
+    "Board",
+    "Game"
+  ],
+  "author": "Eric C. Rushing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NightWatchman/Co.FlyteWork.Eldritch/issues"
+  },
+  "homepage": "https://github.com/NightWatchman/Co.FlyteWork.Eldritch#readme"
+}
